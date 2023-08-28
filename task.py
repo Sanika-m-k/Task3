@@ -3,7 +3,7 @@ import pandas as pd
 from tabulate import tabulate
 import numpy as np
 
-filename="C:/Users/hp/Untitled Folder/.vscode/website/pythontask/airtravel.csv"
+filename="airtravel.csv"
 
 
 def load_csv_data(filename, delimiter=','):
