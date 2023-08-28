@@ -1,7 +1,6 @@
 import sys
-import pandas as pd
 from tabulate import tabulate
-import numpy as np
+
 
 filename="airtravel.csv"
 
